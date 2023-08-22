@@ -5,7 +5,7 @@
 - 🌱 I’m currently doing **Master of Information Technology (Information Systems Management)**
 
 - 📫 How to reach me **spal25@asu.edu**
-- 📄 Know about my experiences **[Resume]** (https://drive.google.com/file/d/1MdV2wKu5PE1pjSV9tRZbmbRONa4Hpl6n/view?usp=sharing)
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1MdV2wKu5PE1pjSV9tRZbmbRONa4Hpl6n/view?usp=sharing)**
 - ⚡ Fun fact **I love manga **
 
 <div> <a href="https://www.linkedin.com/in/shivam-pal-theonly" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
