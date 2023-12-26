@@ -5,14 +5,14 @@
 <!-- Personal Info and Contact Section -->
 <div align="center">
   <p>
-    🔭 I’m currently working on <strong>Data Pipeline Automation on AWS</strong><br>
+    🔭 I’m currently working on <strong>Something data its a secret 🤫</strong><br>
     👯 I’m looking to collaborate on <strong>Open CV with AWS Projects</strong><br>
     🌱 I’m currently pursuing <strong>Master of Information Technology (Information Systems Management)</strong><br>
   </p>
   <p>
     📫 How to reach me: <a href="mailto:spal25@asu.edu">spal25@asu.edu</a><br>
-    📄 Know about my experiences: <a href="https://drive.google.com/file/d/1MdV2wKu5PE1pjSV9tRZbmbRONa4Hpl6n/view?usp=sharing">Resume</a><br>
-    ⚡ Fun fact: I love manga
+    🌐 Know about my experiences: <a href="https://dragonscypher.github.io/">Website</a><br>
+    ⚡ Fun fact: I love anime
   </p>
 </div>
 
@@ -21,14 +21,10 @@
   <a href="https://www.linkedin.com/in/shivam-pal-theonly" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/dragonscypher" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:spal25@asu.edu"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.hackerrank.com/@spleon1" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="HackerRank" height="27" width="30" /></a>
 </div>
 
-<!-- Connect with Me Section -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/shivam-pal-theonly" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/@spleon1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left" >
