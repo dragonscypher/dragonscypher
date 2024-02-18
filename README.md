@@ -11,7 +11,7 @@
   </p>
   <p>
     📫 How to reach me: <a href="mailto:spal25@asu.edu">spal25@asu.edu</a><br>
-    🌐 Know about my experiences: <a href="https://dragonscypher.github.io/">Website</a><br>
+    🌐 Know about my experiences: <a href="http://shivampal.in/">Website</a><br>
     ⚡ Fun fact: I love anime
   </p>
 </div>
