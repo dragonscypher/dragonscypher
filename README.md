@@ -6,8 +6,8 @@
 <div align="center">
   <p>
     🔭 I’m currently working on <strong>Something data its a secret 🤫</strong><br>
-    👯 I’m looking to collaborate on <strong>Open CV with AWS Projects</strong><br>
-    🌱 I’m currently pursuing <strong>Master of Information Technology (Information Systems Management)</strong><br>
+    👯 I’m looking to collaborate on <strong>ML with Cloud Projects</strong><br>
+    🌱 I’m a <strong>Master of Information Technology (Information Systems Management)</strong><br>
   </p>
   <p>
     📫 How to reach me: <a href="mailto:spal25@asu.edu">spal25@asu.edu</a><br>
