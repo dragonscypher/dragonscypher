@@ -5,7 +5,7 @@
 <!-- Personal Info and Contact Section -->
 <div align="center">
   <p>
-    🔭 I’m currently working on <strong>Something data its a secret 🤫</strong><br>
+    🔭 I’m currently working on <strong>Something ML its a secret 🤫</strong><br>
     👯 I’m looking to collaborate on <strong>ML with Cloud Projects</strong><br>
     🌱 I’m a <strong>Master of Information Technology (Information Systems Management)</strong><br>
   </p>
