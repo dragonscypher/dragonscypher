@@ -7,11 +7,11 @@
   <p>
     🔭 I’m currently working on <strong>Something ML its a secret 🤫</strong><br>
     👯 I’m looking to collaborate on <strong>ML with Cloud Projects</strong><br>
-    🌱 I’m a <strong>Master of Information Technology (Information Systems Management)</strong><br>
+    🌱 I’m a <strong>Master of Information Technology and Project Management</strong><br>
   </p>
   <p>
     📫 How to reach me: <a href="mailto:spal25@asu.edu">spal25@asu.edu</a><br>
-    🌐 Know about my experiences: <a href="http://shivampal.in/">Website</a><br>
+    🌐 Know about my experiences: <a href="https://shivampal.in/">Website</a><br>
     ⚡ Fun fact: I love anime
   </p>
 </div>
