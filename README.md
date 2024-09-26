@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Shivam Pal</h1>
-<p align="center"><strong>"Exploring the Intersection of Code and Creativity 🚀 | Data and Cloud Enthusiast"</strong></p>
+<p align="center"><strong>"Exploring the Intersection of Code and Creativity 🚀 | ML and Cloud Enthusiast"</strong></p>
 
 <!-- Personal Info and Contact Section -->
 <div align="center">
