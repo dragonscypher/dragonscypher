@@ -105,7 +105,7 @@
 <h3 align="center">Statistics</h3>
 <div align="center">
   <a href="https://github.com/dragonscypher">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonscypher&theme=transparent" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonscypher&theme=transparent" height="200em" />
   </a>
 </div>
 
