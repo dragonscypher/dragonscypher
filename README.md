@@ -8,6 +8,7 @@
     🔭 I’m currently working on <strong>Something ML.... its a secret 🤫</strong><br>
     👯 I’m looking to collaborate on <strong>ML with Cloud Projects</strong><br>
     🌱 I’m a <strong>Master of Information Technology and Project Management</strong><br>
+       I’m also a <strong>Electronics and Communication Engineer</strong><br>
   </p>
   <p>
     📫 How to reach me: <a href="mailto:spal25@asu.edu">spal25@asu.edu</a><br>
