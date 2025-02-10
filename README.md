@@ -23,6 +23,7 @@
   <a href="https://github.com/dragonscypher" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:spal25@asu.edu"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.hackerrank.com/profile/spleon1" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="HackerRank" height="27" width="30" /></a>
+<a href ="https://huggingface.co/Dragonscypher" target="blank"><img src="https://cdn.brandfetch.io/idGqKHD5xE/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Hugging Face" height="27" width="30" /></a>
 </div>
 
 
