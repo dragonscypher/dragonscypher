@@ -98,17 +98,24 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/>
 <!-- Add more tools... -->
-
-</div>
-
-
+<!-- Statistics Section -->
 
 <!-- Statistics Section -->
 <h3 align="center">Statistics</h3>
+
 <div align="center">
-  <a href="https://github.com/dragonscypher">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonscypher&theme=transparent" height="200em" />
-  </a>
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dragonscypher&theme=github_dark&border=0" height="200px" />
+      </td>
+      <td style="border: none;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonscypher&theme=github_dark&border=0" height="200px" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+
 
 <!-- Add more sections if needed -->
