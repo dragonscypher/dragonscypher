@@ -1,121 +1,115 @@
-<!-- Header Section -->
-<h1 align="center">Hi 👋, I'm Shivam Pal</h1>
-<p align="center"><strong>"Exploring the Intersection of Code and Creativity 🚀 | ML and Cloud Enthusiast"</strong></p>
+<h1 align="center">Hi, I'm Shivam Pal 👋</h1>
 
-<!-- Personal Info and Contact Section -->
-<div align="center">
-  <p>
-    🔭 I’m currently working on <strong>Something ML.... its a secret 🤫</strong><br>
-    👯 I’m looking to collaborate on <strong>ML with Cloud Projects</strong><br>
-    🌱 I’m a <strong>Master of Information Technology and Project Management</strong><br>
-    🧑‍🔧 I’m also an <strong>Electronics and Communication Engineer</strong><br>
-  </p>
-  <p>
-    📫 How to reach me: <a href="mailto:spal25@asu.edu">spal25@asu.edu</a><br>
-    🌐 Know about my experiences: <a href="https://shivampal.in/">Website</a><br>
-    ⚡ Fun fact: I love anime
-  </p>
-</div>
+<p align="center">
+  I build AI, cloud, and full-stack products across healthcare, cybersecurity, automation, and developer tooling.
+</p>
 
-<!-- Social Icons Section -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/shivam-pal-theonly" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/dragonscypher" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:spal25@asu.edu"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.hackerrank.com/profile/spleon1" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="HackerRank" height="27" width="30" /></a>
-<a href ="https://huggingface.co/Dragonscypher" target="blank"><img src="https://cdn.brandfetch.io/idGqKHD5xE/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Hugging Face" height="27" width="30" /></a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-7C3AED?style=for-the-badge" alt="AI and ML focus" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Systems-0EA5E9?style=for-the-badge" alt="Cloud systems focus" />
+  <img src="https://img.shields.io/badge/Focus-Secure%20Engineering-111827?style=for-the-badge" alt="Secure engineering focus" />
+</p>
 
+<table align="center">
+  <tr>
+    <td>🔭 Building local-first AI and ML products</td>
+    <td>🤝 Open to ML x Cloud collaborations</td>
+  </tr>
+  <tr>
+    <td>🎓 Master of Information Technology and Project Management</td>
+    <td>🛠️ Electronics and Communication Engineer</td>
+  </tr>
+</table>
 
+<p align="center">
+  <a href="https://shivampal.in/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:spal25@asu.edu"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/shivam-pal-theonly"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/dragonscypher"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.hackerrank.com/profile/spleon1"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://huggingface.co/Dragonscypher"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left" >
-<h4>Programming Languages and Development</h4>
-<!-- Python -->
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px; transition: transform 0.2s;" title="Python">
-<!-- Java -->
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px; transition: transform 0.2s;" title="Java">
-<!-- C++ -->
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 10px; transition: transform 0.2s;" title="C++">
-<!-- C# -->
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="C#" width="40" height="40" style="margin-right: 10px; transition: transform 0.2s;" title="C#">
-<!-- PHP -->
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40" style="margin-right: 10px; transition: transform 0.2s;" title="PHP">
-<!-- JavaScript -->
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px; transition: transform 0.2s;" title="JavaScript">
-<!-- Scala -->
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/scala-original.svg" alt="Scala" width="40" height="40" style="margin-right: 10px; transition: transform 0.2s;" title="Scala">
+## What I'm building with
 
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40" title="HTML"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" width="40" height="40" title="CSS"/>
-<!-- More backend tools... -->
+<p align="center">
+  Recent work across <strong>HealthHelp</strong>, <strong>Autofile</strong>, <strong>Groupem</strong>, <strong>CyberForge</strong>, <strong>RayZ</strong>, <strong>Djangifyed</strong>, and <strong>LockerIT</strong> includes AI apps, secure systems, browser tooling, and cloud-native workflows.
+</p>
 
-<h4>Database and Storage</h4>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" title="MySQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/apache_hive-icon.svg" alt="Hive" title="Apache Hive" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/couchdb-original.svg" alt="CouchDb" title="CouchDB" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/elastic-icon.svg" alt="ElasticSearch" title="ElasticSearch" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mariadb-icon.svg" alt="Mariadb" title="MariaDB" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" title="Microsoft SQL Server" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-<!-- More database tools... -->
+### Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
+### AI, ML, and Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/-XGBoost-EC6B23?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" />
+</p>
 
-<!-- DevOps and Cloud -->
-<h4>DevOps and Cloud</h4>
+### Frameworks and Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40" title="Hadoop"/>
-<img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="AWS" width="40" height="40" title="AWS"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40" title="Docker"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40" title="Firebase"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" title="Google Cloud"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" title="Kubernetes"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40" title="Microsoft Azure"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Gnu Bash" width="40" height="40" title="Gnu Bash"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="40" height="40" title="Amazon Web Services"/>
-<!-- More DevOps tools... -->
+### Data, Cloud, and Infrastructure
+<p align="center">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
-<h4>Machine Learning and AI</h4>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" title="Scikit-learn" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" title="PyTorch" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" title="TensorFlow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" title="OpenCV" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" title="Pandas" width="40" height="40"/>
-<!-- More ML/AI tools... -->
-<!-- Frameworks and Softwares -->
-<h4>Frameworks and Other Softwares</h4>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" title="Node.js"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" title="Flask" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/django.svg" alt="Django" title="Django" width="40" height="40"/>
-<img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" title="MatLab" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" title="Adobe Illustrator" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/blender_community_badge_white.svg" alt="Blender" title="Blender" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" title="Photoshop" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/elasticco_kibana-icon.svg" alt="Kibana" title="Kibana" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/selenium-logo.svg" alt="Selenium" title="Selenium" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" title="Arduino" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/>
-<!-- Add more tools... -->
-<!-- Statistics Section -->
+### Tooling and Workflow
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana" />
+  <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+</p>
 
-<!-- Statistics Section -->
-<h3 align="center">Statistics</h3>
+## GitHub stats
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td style="border: none;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dragonscypher&theme=github_dark&border=0" height="200px" />
-      </td>
-      <td style="border: none;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonscypher&theme=github_dark&border=0" height="200px" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-<!-- Add more sections if needed -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dragonscypher&theme=github_dark&border=0" height="200" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonscypher&theme=github_dark&border=0" height="200" alt="Profile details" />
+</p>
