@@ -12,7 +12,7 @@
 
 <table align="center">
   <tr>
-    <td>🔭 Building local-first AI and ML products</td>
+    <td>🔭 Building local-first AI and ML products</td>  
     <td>🤝 Open to ML x Cloud collaborations</td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@
   <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
 </p>
 
-## GitHub stats
+## GitHub stats 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dragonscypher&theme=github_dark&border=0" height="200" alt="Top languages" />
